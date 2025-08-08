@@ -1,9 +1,3 @@
-title: 
-description: 
+title: "Zeynep Guven"
+description: "Mathematical Neuroscience"
 theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag

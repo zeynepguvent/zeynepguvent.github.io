@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Zeynep
+title: Zeynep Guven
 ---
 
 Welcome! 
