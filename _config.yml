@@ -7,11 +7,7 @@ email: "Zeynep.Guven-Tunalioglu@warwick.ac.uk"
 
 url: "https://zeynepguvent.github.io"
 baseurl: ""
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-include-cache
-- jekyll-seo-tag 
-- jekyll-sitemap 
+
 
 markdown: kramdown
 kramdown:
